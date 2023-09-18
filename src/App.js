@@ -1,7 +1,4 @@
 import { ZegoUIKitPrebuilt } from '@zegocloud/zego-uikit-prebuilt';
-// eslint-disable-next-line
-// import zegoUikitPrebuilt from '@zegocloud/zego-uikit-prebuilt';
-
 
 export default function App() {
   const roomID = "Room";
